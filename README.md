@@ -11,3 +11,5 @@ The Python Program used has been developed under the following assumptions for s
 
 The program takes in initial monthly revenue, expense, total loan and at what rates revenue and interests grow. I have included some sample examples as well to 
 comapre and contrast. 
+
+It is reccommended to read the Report (the attached word document) before going through the code. 
